@@ -1,0 +1,40 @@
+ [
+      {
+        "name": "Walter White",
+        "role": "Web Development",
+        "description": "Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut",
+        "image": "assets/img/team/team-1.jpg",
+        "social": {
+          "twitter": "#",
+          "facebook": "#",
+          "instagram": "#",
+          "linkedin": "#"
+        }
+      },
+      {
+        "name": "Sarah Jhinson",
+        "role": "Marketing",
+        "description": "Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus",
+        "image": "assets/img/team/team-2.jpg",
+        "social": {
+          "twitter": "#",
+          "facebook": "#",
+          "instagram": "#",
+          "linkedin": "#"
+        }
+      },
+      {
+        "name": "William Anderson",
+        "role": "Content",
+        "description": "Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara",
+        "image": "assets/img/team/team-3.jpg",
+        "social": {
+          "twitter": "#",
+          "facebook": "#",
+          "instagram": "#",
+          "linkedin": "#"
+        }
+      }
+    ]
+  
+  

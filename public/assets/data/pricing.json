@@ -1,0 +1,173 @@
+{
+    "pricing": [
+      {
+        "title": " Weight-Based Pricing",
+        "price": "0",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera"
+        ],
+        "disabledFeatures": [
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit"
+        ],
+        "buttonText": "Buy Now"
+      },
+      {
+        "title": "Distance-Based Pricing",
+        "price": "49",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera",
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit" 
+        ],
+        "disabledFeatures": [],
+        "buttonText": "Buy Now"
+      },
+
+      {
+        "title": "Delivery Speed",
+        "price": "49",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera",
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit"
+        ],
+        "disabledFeatures": [],
+        "buttonText": "Buy Now"
+      },
+
+      {
+        "title": "Service Type",
+        "price": "49",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera",
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit"
+        ],
+        "disabledFeatures": [],
+        "buttonText": "Buy Now"
+      },
+
+      {
+        "title": "Parcel Size",
+        "price": "49",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera",
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit"
+        ],
+        "disabledFeatures": [],
+        "buttonText": "Buy Now"
+      },
+
+      {
+        "title": "Distance-Based Pricing",
+        "price": "49",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera",
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit"
+        ],
+        "disabledFeatures": [],
+        "buttonText": "Buy Now"
+      }
+    ],
+
+    "weight_types": [
+      {
+        "title": " Lightweight Shipments",
+        "price": "0",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera"
+        ],
+        "disabledFeatures": [
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit"
+        ],
+        "buttonText": "Buy Now"
+      },
+      {
+        "title": "Heavyweight Shipments",
+        "price": "49",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera",
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit" 
+        ],
+        "disabledFeatures": [],
+        "buttonText": "Buy Now"
+      }
+    ],
+      "distance_types": [
+      {
+        "title": "Local Deliveries",
+        "price": "49",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera",
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit"
+        ],
+        "disabledFeatures": [],
+        "buttonText": "Buy Now"
+      },
+
+      {
+        "title": "Domestic Long-Distance",
+        "price": "49",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera",
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit"
+        ],
+        "disabledFeatures": [],
+        "buttonText": "Buy Now"
+      },
+
+      {
+        "title": "International Shipments",
+        "price": "49",
+        "period": "month",
+        "features": [
+          "Quam adipiscing vitae proin",
+          "Nec feugiat nisl pretium",
+          "Nulla at volutpat diam uteera",
+          "Pharetra massa massa ultricies",
+          "Massa ultricies mi quis hendrerit"
+        ],
+        "disabledFeatures": [],
+        "buttonText": "Buy Now"
+      }
+    ]
+
+  }
+  

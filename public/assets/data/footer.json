@@ -1,0 +1,40 @@
+{
+    "about": {
+      "siteName": "Logis",
+      "description": "Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus."
+    },
+    "socialLinks": [
+      { "icon": "bi bi-twitter-x", "link": "https://twitter.com" },
+      { "icon": "bi bi-facebook", "link": "https://facebook.com" },
+      { "icon": "bi bi-instagram", "link": "https://instagram.com" },
+      { "icon": "bi bi-linkedin", "link": "https://linkedin.com" }
+    ],
+    "usefulLinks": [
+      { "text": "Home", "href": "#" },
+      { "text": "About us", "href": "#" },
+      { "text": "Services", "href": "#" },
+      { "text": "Terms of service", "href": "#" },
+      { "text": "Privacy policy", "href": "#" }
+    ],
+    "services": [
+      { "text": "Web Design", "href": "#" },
+      { "text": "Web Development", "href": "#" },
+      { "text": "Product Management", "href": "#" },
+      { "text": "Marketing", "href": "#" },
+      { "text": "Graphic Design", "href": "#" }
+    ],
+    "contact": {
+      "address": {
+        "line1": "A108 Adam Street",
+        "line2": "New York, NY 535022",
+        "country": "United States"
+      },
+      "phone": "+1 5589 55488 55",
+      "email": "info@example.com"
+    },
+    "credits": {
+      "designer": "BootstrapMade",
+      "link": "https://bootstrapmade.com/"
+    }
+  }
+  

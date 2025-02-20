@@ -1,0 +1,38 @@
+[
+  {
+    "image": "assets/img/service-1.jpg",
+    "title": "Storage",
+    "description": "Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaque officiis odit.",
+     "linkText": "Learn More"
+  },
+  {
+    "image": "assets/img/service-2.jpg",
+    "title": "Logistics",
+    "description": "Asperiores provident dolor accusamus pariatur dolore nam id audantium ut et iure incidunt molestiae dolor ipsam ducimus occaecati nisi.",
+   "linkText": "Learn More"
+  },
+  {
+    "image": "assets/img/service-3.jpg",
+    "title": "Cargo",
+    "description": "Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque voluptatem aut et molestiae ut et nihil.",
+   "linkText": "Learn More"
+  },
+  {
+    "image": "assets/img/service-4.jpg",
+    "title": "Trucking",
+    "description": "Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque voluptatem aut et molestiae ut et nihil.",
+   "linkText": "Learn More"
+  },
+  {
+    "image": "assets/img/service-5.jpg",
+    "title": "Packaging",
+    "description": "Illo consequuntur quisquam delectus praesentium modi dignissimos facere vel cum consequuntur maiores beatae consequatur magni voluptates.",
+   "linkText": "Learn More"
+  },
+  {
+    "image": "assets/img/service-6.jpg",
+    "title": "Warehousing",
+    "description": "Quas assumenda non occaecati molestiae. In aut earum sed natus beatae in vero. Ab modi quisquam aut nostrum unde et qui est non quo nulla.",
+   "linkText": "Learn More"
+  }
+]

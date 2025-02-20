@@ -1,0 +1,6 @@
+ [
+    { "name": "Home", "link": "/index", "active": true },
+    { "name": "About", "link": "/about", "active": false },
+    { "name": "Services", "link": "/service", "active": false },
+    { "name": "Contact", "link": "/contact", "active": false }
+  ]

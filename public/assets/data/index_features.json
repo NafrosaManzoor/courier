@@ -1,0 +1,42 @@
+{
+  "features": [
+    {
+      "title": "Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/img/features-1.jpg",
+      "details": [
+        "Ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Duis aute irure dolor in reprehenderit in voluptate velit.",
+        "Ullam est qui quos consequatur eos accusamus."
+      ]
+    },
+    {
+      "title": "Corporis temporibus maiores provident",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/img/features-2.jpg",
+      "details": [
+        "Ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      ]
+    },
+    {
+      "title": "Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas",
+      "description": "Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.",
+      "image": "assets/img/features-3.jpg",
+      "details": [
+        "Ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Duis aute irure dolor in reprehenderit in voluptate velit.",
+        "Facilis ut et voluptatem aperiam. Autem soluta ad fugiat."
+      ]
+    },
+    {
+      "title": "Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "image": "assets/img/features-4.jpg",
+      "details": [
+        "Ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      ]
+    }
+  ]
+}
